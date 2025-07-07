@@ -1,0 +1,17 @@
+{
+  "name": "true-token-scale",
+  "title": "True Token Scale (for PTR 1e and Isometric Perspective)",
+  "description": "Automatically scales tokens based on actor's height (supports both 'Characters' and 'Pokémon'), for PTR 1e with the Isometric Perspective module.",
+  "version": "1.0.0",
+  "author": "SapphyDe90",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "12",
+  "scripts": ["scripts/main.js"],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "url": "http://localhost/true-token-scale",
+  "manifest": "http://localhost/true-token-scale/module.json",
+  "download": "http://localhost/true-token-scale/module.zip"
+}
