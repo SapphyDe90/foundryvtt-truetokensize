@@ -13,5 +13,6 @@
   "languages": [],
   "url": "http://localhost/true-token-scale",
   "manifest": "http://localhost/true-token-scale/module.json",
-  "download": "http://localhost/true-token-scale/module.zip"
+  "download": "http://localhost/true-token-scale/module.zip",
+  "license": "MIT"
 }
