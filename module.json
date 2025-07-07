@@ -17,5 +17,7 @@
   "url": "https://github.com/SapphyDe90/foundryvtt-truetokensize",
   "manifest": "https://raw.githubusercontent.com/SapphyDe90/foundryvtt-truetokensize/refs/heads/main/module.json",
   "download": "https://github.com/SapphyDe90/foundryvtt-truetokensize/main/module.zip",
+  "readme": "https://github.com/SapphyDe90/foundryvtt-truetokensize#readme",
   "license": "MIT"
+  
 }
